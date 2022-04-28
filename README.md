@@ -1,7 +1,9 @@
 # pathological_criteria_based_AI
 
-Download [this file]() and put into this directory.
+1. Download [this file]() and put into this directory.
 
-Code is in the notebook: "UroSegNet.ipynb".
+2. Put the test image which you want to try into the folder:"0_pre_seg_img/all" 
 
-Put the test image which you want to try into the folder:"0_pre_seg_img/all" 
+3. Code is in the notebook: "UroSegNet.ipynb".
+
+
